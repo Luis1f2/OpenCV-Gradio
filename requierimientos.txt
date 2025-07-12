@@ -1,0 +1,7 @@
+gradio==3.44.4
+
+pydantic==1.10.13
+
+numpy==1.23.5
+
+opencv-python
